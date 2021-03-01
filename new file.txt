@@ -1,0 +1,2 @@
+Create new file: 创建新的文件
+Name your file: 文件命名，需要注明后缀，如.txt;.py;.php等
