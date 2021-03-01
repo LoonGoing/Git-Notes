@@ -1,3 +1,3 @@
 Create new file: 创建新的文件
 Name your file: 文件命名，需要注明后缀，如.txt;.py;.php等
->点击文件名可以进行编辑、删除操作
+> 点击文件名可以进行编辑、删除操作
